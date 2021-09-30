@@ -10,7 +10,7 @@ eg
 (Himanshu)[https://github.com/himanshu007-creator]
 --->
 # Yay!, i can use Github now
-## Undertaking:- i will respect every single voice and try to be inclusive and welcomeing. I will not spam for Hacktoberfest and any such opensource event/ce;ebration and respect true spirit of Opensource
+## Undertaking:- i will respect every single voice and try to be inclusive and welcoming. I will not spam during Hacktoberfest or any such opensource event/celebration and respect true spirit of Opensource
 | Signatories |
 | --- |
 [Himanshu](https://github.com/himanshu007-creator)
